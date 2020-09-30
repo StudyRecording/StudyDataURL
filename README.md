@@ -7,6 +7,7 @@
 5. [设计模式学习(Java语言)](http://c.biancheng.net/view/1317.html)
 6. [相关技术进阶学习资源总结](https://gitee.com/biwangsheng/mxq)
 7. [技术面试必备基础知识](https://github.com/CyC2018/CS-Notes)
+8. [Git学习](https://oschina.gitee.io/learn-git-branching/)
 
 
 
