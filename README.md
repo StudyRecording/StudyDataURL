@@ -13,6 +13,7 @@
 9. [开发者路线Developer Roadmaps](https://roadmap.sh/)  
 10. [Refactoring.Guru](https://refactoring.guru/)
 11. [微服务开发平台](https://gitee.com/geek_qi/cloud-platform)
+12. [Serverless简明教程](https://github.com/vczero/cloud-developer)
 
 ## Go
 1. [Github学Go](https://my.oschina.net/u/3556271/blog/4730712)
