@@ -17,6 +17,7 @@
 
 ## Go
 1. [Github学Go](https://my.oschina.net/u/3556271/blog/4730712)
+2. [Go语言学LeetCode](https://github.com/halfrost/LeetCode-Go)
 
 
 # 分布式方向的研究
